@@ -1,0 +1,20 @@
+type:wall
+file:resources\\plazas\\wall.png
+sockets:2-1|1|1-2|1
+rotations:0|1|2|3
+end:------------
+type:wall corner
+file:resources\\plazas\\wallCorner.png
+sockets:1|2-1|1-2|1
+rotations:0|1|2|3
+end:------------
+type:wall inside corner
+file:resources\\plazas\\wallInsideCorner.png
+sockets:2-1|1|1|1-2
+rotations:0|1|2|3
+end:------------
+type:floor
+file:resources\\plazas\\floor.png
+sockets:1|1|1|1
+rotations:0
+end:------------

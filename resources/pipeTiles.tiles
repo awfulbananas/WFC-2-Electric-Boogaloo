@@ -1,0 +1,14 @@
+type:blank
+file:resources/blank.png
+sockets:0|0|0|0
+end:------------
+type:iPipe
+file:resources/iPipe.png
+sockets:0|1|0|1
+rotations:0|1
+end:------------
+type:lPipe
+file:resources/lPipe.png
+sockets:1|1|0|0
+rotations:0|1|2|3
+end:------------

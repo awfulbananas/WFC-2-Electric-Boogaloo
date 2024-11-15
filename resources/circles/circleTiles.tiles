@@ -1,0 +1,40 @@
+type:blankB
+file:resources\\circles\\b.png
+sockets:0|0|0|0
+rotations:0
+end:------------
+type:blankW
+file:resources\\circles\\w.png
+sockets:1|1|1|1
+rotations:0
+end:------------
+type:black I
+file:resources\\circles\\b_i.png
+sockets:1|0|1|0
+rotations:0|1
+end:------------
+type:white I
+file:resources\\circles\\w_i.png
+sockets:0|1|0|1
+rotations:0|1
+end:------------
+type:black half
+file:resources\\circles\\b_half.png
+sockets:1|0|1|1
+rotations:0|1|2|3
+end:------------
+type:white half
+file:resources\\circles\\w_half.png
+sockets:0|1|0|0
+rotations:0|1|2|3
+end:------------
+type:white quarter
+file:resources\\circles\\w_quarter.png
+sockets:1|1|0|0
+rotations:0|1|2|3
+end:------------
+type:black quarter
+file:resources\\circles\\b_quarter.png
+sockets:0|0|1|1
+rotations:0|1|2|3
+end:------------
